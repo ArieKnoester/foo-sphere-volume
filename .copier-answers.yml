@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2024.04.23
+_src_path: gh:scientific-python/cookie
+backend: hatch
+email: arikstr@gmail.com
+full_name: Arie Knoester
+license: MIT
+org: ArieKnoester
+project_name: foo-sphere-volume
+project_short_description: Calculate the complex (yet fictitious) Foo, et al. parameterization
+    of sphere volume.
+url: https://github.com/ArieKnoester/foo-sphere-volume
+vcs: true
