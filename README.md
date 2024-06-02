@@ -9,7 +9,12 @@
 
 [![GitHub Discussion][github-discussions-badge]][github-discussions-link]
 
+[TODO](./TODO.md)
+
 <!-- SPHINX-START -->
+
+Calculate the complex (yet fictitious) Foo, et al. parameterization of sphere
+volume.
 
 <!-- prettier-ignore-start -->
 [actions-badge]:            https://github.com/ArieKnoester/foo-sphere-volume/workflows/CI/badge.svg
