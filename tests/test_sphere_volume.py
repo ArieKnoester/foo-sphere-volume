@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 from foo_sphere_volume.sphere_volume import sphere_volume_given_radius
 
 
