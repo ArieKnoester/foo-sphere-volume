@@ -5,16 +5,59 @@
 
 [![PyPI version][pypi-version]][pypi-link]
 [![Conda-Forge][conda-badge]][conda-link]
-[![PyPI platforms][pypi-platforms]][pypi-link]
 
 [![GitHub Discussion][github-discussions-badge]][github-discussions-link]
 
-[TODO](./TODO.md)
+### [TODO List](./TODO.md):
+
+Items I could not complete or were not feasible to complete in the given time
+frame.
 
 <!-- SPHINX-START -->
 
-Calculate the complex (yet fictitious) Foo, et al. parameterization of sphere
+## Description
+
+Calculates the complex (yet fictitious) Foo, et al. parameterization of sphere
 volume.
+
+This package was created using the
+[scientific-python/cookie](https://github.com/scientific-python/cookie)
+template.
+
+## Installation
+
+Install with pip
+
+```
+pip install git+https://github.com/ArieKnoester/foo-sphere-volume
+```
+
+## Usage: Calculate the volume of a sphere given the radius
+
+```python
+from foo_sphere_volume import sphere_volume
+
+
+# radius is a required keyword argument
+print(sphere_volume(radius=1))  # 4.1887902047863905
+```
+
+## Compatibility
+
+Only Python 3.8+ is supported.
+
+## How to contribute
+
+If you'd like to contribute to foo-sphere-volume, take a look at
+[CONTRIBUTING.md](./.github/CONTRIBUTING.md).
+
+### Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=ArieKnoester/foo-sphere-volume)](https://github.com/ArieKnoester/foo-sphere-volume/graphs/contributors)
+
+## License
+
+MIT
 
 <!-- prettier-ignore-start -->
 [actions-badge]:            https://github.com/ArieKnoester/foo-sphere-volume/workflows/CI/badge.svg
