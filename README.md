@@ -57,7 +57,7 @@ If you'd like to contribute to foo-sphere-volume, take a look at
 
 ## License
 
-MIT
+[MIT](./LICENSE)
 
 <!-- prettier-ignore-start -->
 [actions-badge]:            https://github.com/ArieKnoester/foo-sphere-volume/workflows/CI/badge.svg
