@@ -24,6 +24,10 @@ This package was created using the
 [scientific-python/cookie](https://github.com/scientific-python/cookie)
 template.
 
+### Project Status
+
+This project is in pre-alpha and should not be used in production.
+
 ## Installation
 
 Install with pip
