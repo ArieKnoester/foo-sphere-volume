@@ -17,3 +17,5 @@
   - Governance
   - Code of Conduct
   - Connecting (communications and platforms)
+- Community UX
+  - Move items from this TODO to GitHub Issues/Projects
